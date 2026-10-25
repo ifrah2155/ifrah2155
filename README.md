@@ -66,7 +66,7 @@ Network reconnaissance and port scanning tool using Nmap for vulnerability asses
 
 <br/>
 
-#### 🎣 Task2 — Phishing Email Analysis Report
+#### 🎣 Phishing Email Analysis Report
 Analysis of sample phishing emails to identify common red flags and educate users on spotting fraudulent messages.
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifrah2155&repo=Task2&theme=nord&border_color=39d353&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
