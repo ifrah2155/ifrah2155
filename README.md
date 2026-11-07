@@ -31,7 +31,7 @@ const ifrah = {
     degree: "B.Tech Computer Engineering",
     college: "Ramrao Adik Institute of Technology (RAIT), D.Y. Patil University",
     minor: "Cybersecurity & Digital Forensics",
-    cgpa: "8.85 / 10",
+    cgpa: "8.95 / 10",
     graduation: "June 2027 (expected)"
   },
   experience: [
