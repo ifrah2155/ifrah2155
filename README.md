@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:58a6ff&height=220&section=header&text=Ifrah%20Hasware&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20%7C%20SOC%20%7C%20AppSec%20%7C%20AI-Driven%20Detection&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:58a6ff&height=220&section=header&text=Ifrah%20Hasware&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20%7C%20SOC%20%7C%20GRC%20%7C%20Threat%20Intelligence&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=640&lines=Cybersecurity+%26+Digital+Forensics+Student;SOC+%7C+AppSec+%7C+Threat+Detection;Python+%7C+Flask+%7C+React+%7C+Scikit-learn;Building+explainable+security+tooling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=680&lines=Final-Year+B.Tech+CE+%7C+Cyber+%26+Digital+Forensics;SOC+%7C+GRC+%7C+Threat+Intelligence;Python+%7C+Flask+%7C+Streamlit+%7C+Scikit-learn;Building+security+tools+that+explain+themselves" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to%20SOC%20%26%20Product%20Security%20Roles-39D353?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20to%20SOC%20%2F%20GRC%20%2F%20Threat%20Intel%20Internships-39D353?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/B.Tech%20Computer%20Engineering-2027-58a6ff?style=for-the-badge&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/Navi%20Mumbai-India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=39d353" />
 
@@ -34,29 +34,26 @@ const ifrah = {
     cgpa: "8.95 / 10",
     graduation: "June 2027 (expected)"
   },
-  experience: [
-    "Cybersecurity Intern @ ShadowFox (Jan 2026)",
-    "Cybersecurity Intern @ Elevate Labs (Jun – Jul 2025)"
-  ],
   focus: [
-    "SOC operations & alert triage",
-    "Application security (OWASP Top 10, CVSS)",
-    "Network security & traffic analysis",
-    "AI/ML for explainable threat detection",
-    "GRC, ISO/IEC 27001 & NIST CSF 2.0"
+    "SOC operations, alert triage & incident response",
+    "Threat detection, log analysis & MITRE ATT&CK awareness",
+    "GRC, ISO/IEC 27001, risk assessment & audit documentation",
+    "Threat intelligence, OSINT & digital investigations",
+    "VAPT fundamentals & application security",
+    "Python automation & security dashboards"
   ],
-  languages: ["Python", "Java", "C++", "TypeScript", "PHP", "SQL", "Bash"],
+  languages: ["Python", "SQL", "Bash", "Java", "C++", "HTML5", "CSS3"],
   securityTools: [
-    "Wireshark", "Nmap", "Burp Suite", "OWASP ZAP", "Metasploit",
-    "Ettercap", "Scapy", "AlienVault OSSIM", "Kali Linux"
+    "Wireshark", "Nmap", "Burp Suite", "Scapy",
+    "Kali Linux", "Git & GitHub"
   ],
-  frameworks: [
-    "Flask", "FastAPI", "React", "React Router", "Tailwind CSS",
-    "SQLAlchemy", "Celery", "Streamlit", "scikit-learn"
+  buildStack: [
+    "Flask", "Streamlit", "Pandas", "scikit-learn",
+    "REST APIs", "Matplotlib", "ReportLab"
   ],
-  next: "Provisional Java Developer offer @ Elvio IT Solutions (2027)",
-  status: "Final-year student building security tools that explain themselves",
-  openTo: ["SOC Analyst", "Product / AppSec", "Cybersecurity internships", "AI-security research"]
+  research: "First-author manuscript — JanSetu (AI-driven civic issue resolution)",
+  status: "Security-focused final-year student seeking SOC / GRC / Threat Intelligence internships",
+  openTo: ["SOC Analyst", "GRC Analyst", "Threat Intelligence", "Cybersecurity internships"]
 };
 ```
 
@@ -68,44 +65,30 @@ const ifrah = {
 |---|---|
 | 🎓 **Education** | B.Tech Computer Engineering — RAIT, D.Y. Patil University, Navi Mumbai |
 | 🛡️ **Minor** | Cybersecurity & Digital Forensics |
-| 📊 **CGPA** | 8.85 / 10 |
-| 💼 **Experience** | 2 cybersecurity internships — ShadowFox & Elevate Labs |
-| 🎯 **Focus** | SOC · AppSec · Network Security · AI/ML Detection · GRC |
-| 🚀 **Flagship build** | Explainable hybrid intrusion detection system (F1 **0.992**) |
+| 📊 **CGPA** | 8.95 / 10 |
+| 🎯 **Focus** | SOC · Threat Detection · GRC · Threat Intel · VAPT |
+| 📝 **Research** | First-author manuscript on AI-driven civic issue resolution |
+| 🚀 **Flagship build** | Explainable hybrid IDS — F1 **0.992**, recall **1.000** |
 | 📍 **Location** | Navi Mumbai, Maharashtra, India |
 
 ---
 
-### 💼 Experience
+### 🔬 Featured Security Projects
 
-**Cybersecurity Intern — ShadowFox** · *Jan 2026*
-- Assessed **5+ web applications**, documenting **20+ findings** — including critical SQL injection and stored XSS — with CVSS severity ratings and OWASP Top 10 mapping.
-- Triaged **10,000+ log entries**, confirming credential stuffing, directory traversal and repeated 4xx anomalies.
-- Built standardised evidence-capture and remediation templates, cutting incident documentation turnaround by **~25%**.
+#### 🛡️ Hybrid Intrusion Detection System
+A hybrid network IDS that combines **9 Snort-style signature rules** with **Random Forest** and **Isolation Forest**, then fuses both layers into **explainable incidents** — every alert states the rule that fired, the feature that deviated, and whether the ML layer agrees.
 
-**Cybersecurity Intern — Elevate Labs** · *Jun – Jul 2025*
-- Analysed **500+ MB of live network traffic** with Wireshark and Nmap, identifying **15+ threats** including port scans, ARP spoofing indicators and lateral movement.
-- Performed memory artifact collection, log correlation and timeline reconstruction for **3 simulated incident scenarios**.
-- Wrote **4 Python automation scripts** for log parsing, IP reputation lookups and alert formatting, cutting manual analysis time by **~30%**.
-
----
-
-### 🚀 Featured Projects
-
-#### 🛡️ AI-Driven Network Traffic Analysis & Intrusion Detection
-Hybrid IDS that fuses **9 signature rules** with **Isolation Forest + Random Forest**, then turns detections into **explainable incidents** — every alert states which rule fired, which threshold was crossed, how far the flow deviates from the benign baseline, and whether both layers agree.
-
-- **55 behavioural flow features** across volume, timing, TCP-flag behaviour and port entropy
-- **2,844 labelled flows** over six Scapy-generated captures; **34 tests**; Streamlit analyst console
-- Hybrid results: **F1 0.992**, recall **1.000**, alert-level precision **0.917**; zero false positives on the unambiguous scenarios
-- Catches a **slow scan the rule layer misses entirely** — the concrete case for hybrid detection
+- Crafted **6 labelled PCAPs** with Scapy — **9,776 packets / 2,844 flows** — covering port scans, DoS variants, brute force, ARP poisoning and benign traffic
+- Reconstructed bidirectional **5-tuple flows** and engineered **55 features** across volume, timing, TCP flags and host behaviour
+- Results: **precision 0.984 · recall 1.000 · F1 0.992 · accuracy 0.986** (11/12 true positives, 1 justified false positive)
+- **4-tab Streamlit dashboard**: Evidence · ML Attribution · Affected Flows · Raw Alerts
 
 | Layer | Technology |
 |---|---|
-| Data | Scapy-generated labelled PCAPs, Pandas |
-| Detection | 9 signature rules, Isolation Forest, Random Forest |
+| Data | Scapy, labelled PCAPs, Pandas |
+| Detection | 9 signature rules, Random Forest, Isolation Forest |
+| Explainability | Rule evidence, feature attribution, cross-layer validation |
 | Interface | Streamlit, JSON/CSV exports, technical report |
-| Quality | pytest (34 tests), leakage-safe group split, full evaluation |
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifrah2155&repo=Intrusion-Detection-System&theme=nord&border_color=39d353&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 
@@ -113,12 +96,61 @@ Hybrid IDS that fuses **9 signature rules** with **Isolation Forest + Random For
 
 <br/>
 
-#### 📋 ISMS Tracker — ISO/IEC 27001 Compliance Automation
-Final-year project: an audit-readiness platform that follows the real GRC analyst workflow — risk assessment → control implementation → evidence collection → gap analysis → Statement of Applicability → auditor pack.
+#### 📊 Log File Analyzer & Security Dashboard
+Python/Flask tool that parses SSH (`auth.log`) and Apache (`access.log`) files, processing **50,000+ log lines** to surface brute-force, DoS and web-scanning attacks.
+
+- Severity classification, evidence collection and structured incident reporting
+- **REST API** plus an interactive dashboard with **5 visualisations** — activity timeline, top attacker IPs, threat distribution, hourly heatmap and protocol breakdown
+- CSV exports and PDF incident summaries with attacker attribution
+
+| Layer | Technology |
+|---|---|
+| Backend | Python, Flask, Pandas, Regex, REST APIs |
+| Reporting | Matplotlib, ReportLab |
+| Output | CSV, PDF, live web dashboard |
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ifrah2155&repo=log-analyzer&theme=nord&border_color=39d353&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+
+[🔗 Code](https://github.com/ifrah2155/log-analyzer)
+
+<br/>
+
+#### ⌨️ Virtual Keyboard Attack Suite
+A controlled-lab offensive security project documenting **6 attack modules** against a virtual keyboard in a Flask demo app:
+
+- Screenshot capture, click-coordinate reconstruction, clipboard hijacking
+- DOM inspection, keystroke-timing analysis, process-memory scanning/keylogging
+- Proposed mitigations: input randomisation, clipboard isolation, protected rendering and timing defences
+
+| Layer | Technology |
+|---|---|
+| Environment | Python, Flask, controlled lab |
+| Focus | Client-side attack surface, keylogging, timing side channels |
+| Output | Documented attack modules + mitigation guidance |
+
+<br/>
+
+#### 🏙️ JanSetu — AI-Driven Civic Issue Resolution
+**First-author research manuscript.** JanSetu detects coordinated fake civic reports using spatio-temporal analysis and **multi-signal corroboration**, then ranks issues by verified evidence rather than raw complaint volume.
+
+- End-to-end web application with issue reporting, validation, prioritisation and **explainable outputs**
+- Research prototype in **Python, Flask, HTML/CSS**
+- Full-stack build with **FastAPI, PostgreSQL/PostGIS, DBSCAN, YOLOv8 + CLIP, React and Flutter**
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ifrah2155&repo=JanSetu&theme=nord&border_color=39d353&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+
+[🔗 Code](https://github.com/ifrah2155/JanSetu)
+
+---
+
+### 📋 GRC & Threat Intelligence
+
+#### 🏛️ ISMS Tracker — ISO/IEC 27001 Compliance Automation
+Final-year project: an audit-readiness platform that follows the real GRC workflow — risk assessment → control implementation → evidence collection → gap analysis → Statement of Applicability → auditor pack.
 
 - Full **ISO/IEC 27001:2022 Annex A** library — **93 controls** across 4 themes
 - **FAIR-lite risk quantification** (SLE, ALE, residual risk) with Monte Carlo support
-- Evidence lifecycle with **expiry-based nonconformity flags**
+- Evidence lifecycle with expiry-based nonconformity flags
 - Cross-mapping across **ISO 27001 ↔ NIST CSF 2.0 ↔ SOC 2**, plus SoA and audit-pack exports
 
 | Layer | Technology |
@@ -132,43 +164,32 @@ Final-year project: an audit-readiness platform that follows the real GRC analys
 
 <br/>
 
-#### 🏙️ JanSetu — AI-Driven Crowdsourced Civic Issue Resolution
-A civic reporting platform with a trust layer: citizens report potholes, garbage and broken streetlights; reports are clustered in space and time and ranked by **verified evidence**, not raw complaint volume.
+#### 🕵️ Threat Intelligence Briefing Portfolio
+Four **TLP:AMBER** threat-intelligence assessments built with passive, read-only collection and explicit source tiering:
 
-- **DBSCAN** clustering on location + time
-- **WMCS (Weighted Multi-Signal Corroboration)** algorithm to resist duplicate/spam reports
-- **YOLOv8** photo validation + **CLIP** embeddings for issue understanding
-- Flutter citizen app, React agency dashboard, FastAPI + Celery backend
-
-| Layer | Technology |
+| Brief | Focus |
 |---|---|
-| Backend | Python, FastAPI, Celery |
-| Data | PostgreSQL + PostGIS |
-| ML | YOLOv8, CLIP, DBSCAN |
-| Clients | Flutter, React, Docker |
+| **Underground Economy** | Ransomware-as-a-service tiers, initial-access pricing, stealer-log exposure and market disruption — 37 traceable sources |
+| **Exploit & Zero-Day Credibility** | Separate a confirmed breach from an unproven zero-day claim; confidence language, CVE mapping and IOC annexes |
+| **Threat Actor Profile: Handala** | Attribution to Iran's MOIS, MITRE ATT&CK **G1055** mapping, Diamond Model and IOC register |
+| **Brand & Data Exposure** | Credential exposure, impersonation/phishing indicators, certificate-transparency checks and monitoring uplift |
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ifrah2155&repo=JanSetu&theme=nord&border_color=39d353&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+- Evidence captured as numbered sources; every judgement traceable to a capture
+- **MITRE ATT&CK** and **Diamond Model** annexes
+- OSINT toolkit: Shodan, Amass, Google dorking, crt.sh, CertSpotter, urlscan.io, Hudson Rock, ransomware.live
 
-[🔗 Code](https://github.com/ifrah2155/JanSetu)
+---
 
-<br/>
+### 🧪 Labs & Incident Response
 
-#### 📊 Log File Analyzer for Intrusion Detection
-Python/Flask tool that parses SSH (`auth.log`) and Apache (`access.log`) files, processing **50,000+ log lines** to surface brute-force, DoS and web-scanning attacks.
-
-- Regex-based detection for high-risk IPs, authentication spikes and anomalous request volumes
-- Flask dashboard with auto-refresh and **5 interactive visualisations**
-- Structured CSV reports and PDF incident summaries with attacker attribution
-
-| Layer | Technology |
+| Lab | What I did |
 |---|---|
-| Backend | Python, Flask, Pandas, Regex |
-| Reporting | Matplotlib, ReportLab |
-| Output | CSV, PDF, live web dashboard |
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ifrah2155&repo=log-analyzer&theme=nord&border_color=39d353&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-
-[🔗 Code](https://github.com/ifrah2155/log-analyzer)
+| **Incident Response Capstone** | Detected reconnaissance with Nmap and Wireshark; investigated network evidence with CurrPorts, Windows Event Viewer and HashCalc; contained, blocked and recovered affected systems — guided by Dr. Gautam Borker |
+| **Ransomware Behaviour Analysis** | Simulated ransomware in an isolated Kali VM; static analysis (SHA-256, strings, YARA) and dynamic analysis (inotifywait, entropy tracking, ransom-note capture), plus a behaviour detector and incident report |
+| **Malware Analysis** | VirusTotal triage, PEiD packing checks, Ghidra/strings static analysis, Process Explorer and Wireshark dynamic analysis in an isolated lab |
+| **Network Security** | Nmap scanning, packet capture and ARP analysis; identified port scans, spoofing indicators and lateral-movement patterns |
+| **OSINT & Digital Investigations** | Social-media and website investigations, WHOIS/DNS/certificate checks, evidence capture and structured report writing (CTRL. ALT. ACT. — CSI & MKITOS) |
+| **Cryptography & Network Security** | Implemented Caesar, Playfair, Vigenère, Rail Fence and Hill ciphers, RSA, Diffie-Hellman, hashing and socket programming |
 
 ---
 
@@ -177,6 +198,8 @@ Python/Flask tool that parses SSH (`auth.log`) and Apache (`access.log`) files, 
 | Project | What it does | Stack |
 |---|---|---|
 | **ResolveIt** | Virtual court & mediation platform with RBAC across three roles and a tamper-evident document lifecycle | TypeScript, React, Node |
+| **SIH 2025 — CODESTRIX** | Offline-first multi-factor authentication for low-network zones using a time-based one-time handshake, USSD and QR | Next.js, Express, Flutter, MySQL, PHP |
+| **Digital Wellbeing Guardian** | IBM SkillsBuild team project: screen-time tracker with Pomodoro cycles, notifications and local analytics | JavaScript, HTML5, Tailwind CSS |
 | **Phishing Email Analysis** | Header forensics, SPF/DKIM/DMARC checks, URL/attachment inspection and user-awareness report | MxToolbox, VirusTotal, URLVoid |
 | **Nmap Network Scan** | Scanned a /24 network, mapped live hosts, open ports and service-level risk | Nmap, Kali Linux |
 | **Hotel Booking Website** | End-to-end booking flow with payments, PDF invoices and email confirmations | PHP, MySQL, Bootstrap |
@@ -198,11 +221,15 @@ Python/Flask tool that parses SSH (`auth.log`) and Apache (`access.log`) files, 
 
 ![Skills](https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode,postman)
 
-**Security & analysis:** Wireshark · Nmap · Burp Suite · OWASP ZAP · Metasploit · Ettercap · Scapy · AlienVault OSSIM · SIEM concepts (ELK/Splunk) · Kali Linux
+**Security operations:** SOC workflows · alert triage · incident response · log analysis · threat detection · MITRE ATT&CK · IDS/IPS concepts
 
-**AppSec & GRC:** OWASP Top 10 · CVSS scoring · threat modelling · SAST/DAST/SCA concepts · ISO/IEC 27001 · NIST CSF 2.0 · SOC 2 · FAIR risk quantification
+**GRC & compliance:** ISO/IEC 27001 · risk assessment · security controls · audit documentation · policy mapping · NIST CSF 2.0 · SOC 2 · FAIR
 
-**Data & automation:** Pandas · scikit-learn · Matplotlib · ReportLab · Power BI · Power Automate
+**Offensive & defensive:** OWASP Top 10 · VAPT fundamentals · vulnerability assessment · packet analysis · Wireshark · Nmap · Burp Suite · Scapy · Kali Linux
+
+**Threat intelligence & OSINT:** Shodan · Amass · Google dorking · crt.sh · CertSpotter · urlscan.io · Hudson Rock · ransomware.live · Diamond Model
+
+**Programming & automation:** Python · SQL · Bash · Flask · Streamlit · REST APIs · Pandas · scikit-learn · Matplotlib · ReportLab
 
 ---
 
@@ -212,14 +239,18 @@ Python/Flask tool that parses SSH (`auth.log`) and Apache (`access.log`) files, 
 |---|---|---|
 | ISO/IEC 27001 Information Security Associate | SkillFront | 2025 |
 | AWS Academy Graduate — Cloud Foundations | AWS Academy | 2026 |
+| Palo Alto Networks Fundamentals — Cybersecurity, Cloud, SOC & Network Security | Palo Alto Networks | 2024 |
+| Microsoft Applied Skills — Power Automate | Microsoft Learning | 2025 |
+| Deloitte Cyber Job Simulation | Deloitte / Forage | 2025 |
+| Tata Group — Cybersecurity Analyst Job Simulation | Tata / Forage | 2025 |
 | CTRL. ALT. ACT. — Open-Source Intelligence | Cyber Secured India | 2025 |
 | CS50's Introduction to Programming with Python | HarvardX | 2025 |
-| Cybersecurity Analyst Job Simulation | Tata Group / Forage | 2025 |
-| Microsoft Applied Skills — Power Automate | Microsoft Learning | 2025 |
-| Agentic AI — From Learner to Builder | CSRBOX | 2025 |
-| Palo Alto Cybersecurity Virtual Internship | AICTE / EduSkills | 2024 |
+| AI, LLM, Prompting & AI Agents | IBM SkillsBuild | 2025 |
+| Cybersecurity, SOC, Network & Cloud Security Fundamentals | Beacon | — |
+| PCCET — Certified Cybersecurity Entry-level Technician | Palo Alto Networks | — |
+| Foundation Course on IR4.0 Technologies | Edunet Foundation | 2025 |
 
-<sub>Also completed: Deloitte Cyber Simulation, Edunet IR4.0, and foundational programmes in Java OOP, ethical hacking and cybersecurity.</sub>
+<sub>Also completed: NPTEL Design, Technology & Innovation, OOPs in Java (Great Learning), Mission GSoC and project-based learning programmes.</sub>
 
 ---
 
@@ -257,7 +288,7 @@ Python/Flask tool that parses SSH (`auth.log`) and Apache (`access.log`) files, 
 - 🎤 **Workshop Speaker** — designed and delivered a hands-on *Security & Workflow Tools* workshop for peers at RAIT (Nov 2025).
 - 🗣️ **Languages** — English (advanced), Hindi, Marathi and Urdu (native).
 - 🎨 **Outside tech** — arts & crafts, handmade design and poetry.
-- 📚 **Currently learning** — deeper AppSec, secure SDLC, cloud security and applying LLMs/agents to security workflows.
+- 📚 **Currently learning** — deeper GRC, threat intelligence tradecraft, cloud security and AI-agent workflows for security operations.
 
 ---
 
