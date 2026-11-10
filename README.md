@@ -184,7 +184,7 @@ Four **TLP:AMBER** threat-intelligence assessments built with passive, read-only
 
 | Lab | What I did |
 |---|---|
-| **Incident Response Capstone** | Detected reconnaissance with Nmap and Wireshark; investigated network evidence with CurrPorts, Windows Event Viewer and HashCalc; contained, blocked and recovered affected systems — guided by Dr. Gautam Borker |
+| **Incident Response Capstone** | Detected reconnaissance with Nmap and Wireshark; investigated network evidence with CurrPorts, Windows Event Viewer and HashCalc; contained, blocked and recovered affected systems |
 | **Ransomware Behaviour Analysis** | Simulated ransomware in an isolated Kali VM; static analysis (SHA-256, strings, YARA) and dynamic analysis (inotifywait, entropy tracking, ransom-note capture), plus a behaviour detector and incident report |
 | **Malware Analysis** | VirusTotal triage, PEiD packing checks, Ghidra/strings static analysis, Process Explorer and Wireshark dynamic analysis in an isolated lab |
 | **Network Security** | Nmap scanning, packet capture and ARP analysis; identified port scans, spoofing indicators and lateral-movement patterns |
@@ -198,7 +198,6 @@ Four **TLP:AMBER** threat-intelligence assessments built with passive, read-only
 | Project | What it does | Stack |
 |---|---|---|
 | **ResolveIt** | Virtual court & mediation platform with RBAC across three roles and a tamper-evident document lifecycle | TypeScript, React, Node |
-| **SIH 2025 — CODESTRIX** | Offline-first multi-factor authentication for low-network zones using a time-based one-time handshake, USSD and QR | Next.js, Express, Flutter, MySQL, PHP |
 | **Digital Wellbeing Guardian** | IBM SkillsBuild team project: screen-time tracker with Pomodoro cycles, notifications and local analytics | JavaScript, HTML5, Tailwind CSS |
 | **Phishing Email Analysis** | Header forensics, SPF/DKIM/DMARC checks, URL/attachment inspection and user-awareness report | MxToolbox, VirusTotal, URLVoid |
 | **Nmap Network Scan** | Scanned a /24 network, mapped live hosts, open ports and service-level risk | Nmap, Kali Linux |
